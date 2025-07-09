@@ -95,6 +95,6 @@ digit-recognition/
 
 Thanks to Tamizhan Skills for the RISE Internship opportunity.
 
-Inspired by real-world spam filtering problems.
+Inspired by real-world digital recognition problems.
 
 Built by @ShaikJasmin11
